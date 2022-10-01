@@ -35,7 +35,10 @@ Team working with a lot of folks which is very good for the growth 📈 of the p
 
 - Don't forget to attach a screenshot of the final output of the work that you have done, and do mention the issue you have worked upon, while making a PR.
 - Just make sure that you push only the files that you have worked upon.
-- ## Demo
+
+
+
+
 
 # Your First Contribution
 Is this your first time contributing to an open source project? If yes, Welcome!!✨🎉💃🏾 Here is a [great tutorial](https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github) on how to contribute to an open source project.
@@ -56,6 +59,10 @@ The maintainer of Blind Man Stick Using Arduino looks at Pull Requests on a regu
 ## Thanks to all Contributors
 
 <a href="https://github.com/poonam-kumawat/Blind_Man_Stick_Using_Arduino">
-  
+  <img src="https://contrib.rocks/image?repo=poonam-kumawat/Blind_Man_Stick_Using_Arduino" />
 </a>
 
+## License
+![License: Apache](https://img.shields.io/badge/license-Apache-blue)
+
+If you liked this project, please leave a 🌟
