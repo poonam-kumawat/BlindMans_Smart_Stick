@@ -36,7 +36,7 @@ BlindMan's stick is an innovative stick designed for visually disabled people fo
   <img src="https://contrib.rocks/image?repo=poonam-kumawat/BlindMans_Smart_Stick" />
   
 </a>
-<a href="https://github.com/AshishisLiquid/BlindMans_Smart_Stick">
+<a href="https://github.com/poonam-kumawat/BlindMans_Smart_Stick/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AshishisLiquid/BlindMans_Smart_Stick" />
   
 </a>
