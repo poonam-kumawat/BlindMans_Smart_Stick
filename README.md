@@ -1,7 +1,7 @@
 
 <br>
 <h1 align="center">
-Blind Man Stick Using Arduino
+Blind Man Stick 
 </h1>
 
 <h2>
@@ -31,7 +31,7 @@ Blind stick is an innovative stick designed for visually disabled people for imp
 ## Thanks to all Contributors
 
 <a href="https://github.com/poonam-kumawat/Blind_Man_Stick_Using_Arduino">
-  <img src="https://contrib.rocks/image?repo=poonam-kumawat/Blind_Man_Stick_Using_Arduino" />
+  <img src="https://contrib.rocks/image?repo=poonam-kumawat/Blind_Man_Stick" />
 
 </a>
 
